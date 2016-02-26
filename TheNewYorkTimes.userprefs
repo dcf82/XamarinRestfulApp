@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Droid/TheNewYorkTimes.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_6_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TheNewYorkTimes/Pages/NewsPage.xaml.cs">
+    <Files>
+      <File FileName="TheNewYorkTimes/Pages/NewsPage.xaml" Line="51" Column="1" />
+      <File FileName="TheNewYorkTimes/Pages/NewsPage.xaml.cs" Line="17" Column="39" />
+      <File FileName="TheNewYorkTimes/Pages/NewDetails.xaml" Line="20" Column="1" />
+      <File FileName="TheNewYorkTimes/Pages/NewDetails.xaml.cs" Line="31" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/dcf82/Xamarin/Crowley/Crowley.TOSLite.UI.Yard/Crowley.TOSLite.UI.Yard/Service/LoginService.cs" line="80" column="1" />
+      <Breakpoint file="/Users/dcf82/Xamarin/Crowley/Crowley.TOSLite.UI.Yard/Crowley.TOSLite.UI.Yard/Service/LoginService.cs" line="55" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../Crowley/Crowley.TOSLite.UI.Yard/Crowley.TOSLite.UI.Yard/Service/LoginService.cs" line="80" offsetX="457" offsetY="1185" expression="e" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
